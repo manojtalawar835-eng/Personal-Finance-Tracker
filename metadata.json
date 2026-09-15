@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "AI-powered full-stack personal finance tracker with predictive cash flow, smart budgeting, bill reminders, investment portfolio, and intelligent financial insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
